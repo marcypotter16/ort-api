@@ -1,0 +1,12 @@
+GET http://localhost:8080/users
+
+//GET http://localhost:8080/users/62acf020c4c2e319cf87aa3b
+
+# POST http://localhost:8080/users {
+#     nome: "Ay",
+#     cognome: "BROASID",
+#     username: "Son Of My Sorrow",
+#     password: "torterra1",
+#     luogo: "Torretta",
+#     tel: "123456789"
+# }
